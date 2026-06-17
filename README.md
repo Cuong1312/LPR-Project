@@ -5,7 +5,7 @@
 
 ## Tính năng chính
 * Nhận diện hoàn toàn cục bộ (Offline) bằng mô hình YOLO, không phụ thuộc vào API bên thứ ba.
-* Hỗ trợ đầu vào đa dạng: Hình ảnh, Video (MP4, AVI) và luồng Webcam trực tiếp.
+* Hỗ trợ đầu vào đa dạng: Hình ảnh, Video (MP4, AVI).
 * Tích hợp thuật toán IOU Tracker để bám vết phương tiện và tự động chọn khung hình có chất lượng tốt nhất để nhận diện chữ.
 * Giao diện đồ họa (GUI) xây dựng bằng CustomTkinter, cho phép xem lại lịch sử quét và lưu trữ ảnh cắt của biển số.
 
