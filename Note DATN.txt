@@ -1,0 +1,12 @@
+# Vietnam License plate > 2026-01-27 4:14pm
+https://universe.roboflow.com/default-vyf9j/vietnam-license-plate-hayn8-uznpc
+
+Provided by a Roboflow user
+License: CC BY 4.0
+
+Cơ sở lý thuyết của các thuật toán rõ ràng hơn
+Lấy thêm dữ liệu từ nhiều nguồn
+Triển khai trên các bộ dữ liệu khác nhau
+Đánh giá thực nghiệm: tiêu chí đánh giá là gì, lấy tiêu chí nào cho phù hợp với yêu cầu bài toán
+Show kết quả đánh giá, hình vẽ, bảng hiển thị kết quả
+Làm bằng latex

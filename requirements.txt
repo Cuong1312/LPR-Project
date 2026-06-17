@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+numpy
+customtkinter
+pandas
+python-dotenv
+Pillow

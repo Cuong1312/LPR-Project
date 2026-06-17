@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# Datasets & Weights
+dataset/
+synthetic_dataset/
+*.zip
+yolov8n.pt
+
+# Logs and Outputs
+runs/
+*.csv
+debug_plate.jpg
